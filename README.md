@@ -1,4 +1,6 @@
 # Phase-2-Final-Project_TKH-
+- **Project:**
+- https://docs.google.com/document/d/1heqnOVddglXxGlCDubKmWy1Hrkgr8vWapxSngiFrm28/edit#heading=h.iwt9uejoe50j
 - **Resources:**
    - https://youtu.be/4s_3oNwqImo?si=omHoVgbVmK73TJVi
    - https://youtu.be/bGDMeD6kOz0?feature=shared
