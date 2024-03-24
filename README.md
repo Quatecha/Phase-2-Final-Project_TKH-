@@ -1,8 +1,15 @@
 # Phase-2-Final-Project_TKH-
-- **Project:**
-- https://docs.google.com/document/d/1heqnOVddglXxGlCDubKmWy1Hrkgr8vWapxSngiFrm28/edit#heading=h.iwt9uejoe50j
+- **Project:**  
+     - https://docs.google.com/document/d/1heqnOVddglXxGlCDubKmWy1Hrkgr8vWapxSngiFrm28/edit#heading=h.iwt9uejoe50j
+  ##
+- **Project Notes:**
+     - https://1drv.ms/w/s!ArrXxP7mFzWXjmzPPn-VSxdU43di?e=JYUBsc
+  ##
+  
 - **Lab Report-Layout:**
-     - https://docs.google.com/document/d/13MJtSPFCy_h2RG4m-nulJuCKO9qzSU3AWsC5mxF-_WE/edit?usp=sharing 
+     - https://docs.google.com/document/d/13MJtSPFCy_h2RG4m-nulJuCKO9qzSU3AWsC5mxF-_WE/edit?usp=sharing
+##
+
 - **Resources:**
    - https://youtu.be/4s_3oNwqImo?si=omHoVgbVmK73TJVi
    - https://youtu.be/bGDMeD6kOz0?feature=shared
