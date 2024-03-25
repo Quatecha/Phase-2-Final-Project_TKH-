@@ -36,3 +36,4 @@
    - https://www.barracuda.com/support/glossary/aws-firewall#:~:text=The%20term%20AWS%20Firewall%20refers,Application%20Firewalls%20and%20Network%20Firewalls
    - https://youtu.be/chPRQzdkHcc?si=vNrpoEuVsfbS0fk8
    - https://tkhfellowships.slack.com/archives/C06R1QJ88EL/p1711159571577429
+   - https://www.gns3network.com/how-to-install-pfsense-firewall-in-vmware-workstation/#:~:text=We%20will%20use%20the%20same,click%20on%20the%20Next%20button
