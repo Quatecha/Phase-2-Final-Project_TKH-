@@ -5,7 +5,7 @@
 - **Team Members Role:**
    ##
   
-     • Quatechha C: **Team Leader**
+     • Quatecha C: **Team Leader**
 
      • Jose R: **Technical Documentation**
 
