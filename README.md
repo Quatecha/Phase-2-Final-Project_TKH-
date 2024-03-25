@@ -1,7 +1,25 @@
 # Phase-2-Final-Project_TKH-
-- **Project:**  
+- **Project:**
      - https://docs.google.com/document/d/1heqnOVddglXxGlCDubKmWy1Hrkgr8vWapxSngiFrm28/edit#heading=h.iwt9uejoe50j
-  ##
+##
+- **Team Members Role:**
+   ##
+  
+     • Quatechha C: **Team Leader**
+
+     • Jose R: **Technical Documentation**
+
+     • D’Andre W: **Presenting**
+
+     • Luis V: **Topology/Diagram**
+
+     • Margaret E: **Project Manager**
+
+     • Mathew E: **Create Presentation Slides**
+
+     • Luz R: **Word Paper**
+##
+
 - **Project Notes:**
      - https://1drv.ms/w/s!ArrXxP7mFzWXjmzPPn-VSxdU43di?e=JYUBsc
   ##
