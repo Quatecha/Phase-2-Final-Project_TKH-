@@ -20,6 +20,10 @@
      • Luz R: **Word Paper**
 ##
 
+- **Project Visual workflow :**
+   ![Screenshot 2024-03-25 005908](https://github.com/Quatecha/Phase-2-Final-Project_TKH-/assets/151267325/3b423c17-46ea-41ac-bee3-f5f5534003dc)
+
+##
 - **Project Notes:**
      - https://1drv.ms/w/s!ArrXxP7mFzWXjmzPPn-VSxdU43di?e=JYUBsc
   ##
