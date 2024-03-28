@@ -34,6 +34,7 @@
 
 - **Presentation:**
     - https://docs.google.com/presentation/d/1hJu1IpRhxcFIrRHTQg8eLtWdwxg3pfIRpGqj-mm8ayU/edit?usp=sharing
+    - https://docs.google.com/presentation/d/1tf_wxw4TL_7j4R_qoHTwvqy17t22BdTtfls81D6gIlQ/edit?usp=sharing
   ##
 
 - **Final Paper**
