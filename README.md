@@ -41,7 +41,7 @@
    - [ -https://1drv.ms/w/s!ArrXxP7mFzWXjn6V8wK0WUPe1hjd?e=ohAu67 ](https://1drv.ms/w/s!ArrXxP7mFzWXjn6V8wK0WUPe1hjd?e=ohAu67)
  ##
  - **Detail Paper**
-
+   - https://docs.google.com/document/d/1EA_dVf7KVaGYp0jS5BvDBONYGzRPB0P7iALVcPyaqY0/edit
 ##
 - - **Resources:**
    - https://youtu.be/4s_3oNwqImo?si=omHoVgbVmK73TJVi
