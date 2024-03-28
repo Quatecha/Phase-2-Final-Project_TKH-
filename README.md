@@ -43,3 +43,5 @@
    - https://www.gns3network.com/how-to-install-pfsense-firewall-in-vmware-workstation/#:~:text=We%20will%20use%20the%20same,click%20on%20the%20Next%20button
    - https://www.youtube.com/watch?v=Xb-matrBNOs&list=PLjLMk0MFvaftKoNcvnBC_HxxQka0m3tvg&index=9
    - https://www.youtube.com/watch?v=M190tJAr8jQ
+   - https://www.youtube.com/watch?v=QWQ-LQL1owE&ab_channel=NetworkChuck
+   - https://www.youtube.com/watch?v=5FYt4bGo8VM&t=474s&ab_channel=LoiLiangYang
