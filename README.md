@@ -32,7 +32,11 @@
      - https://docs.google.com/document/d/13MJtSPFCy_h2RG4m-nulJuCKO9qzSU3AWsC5mxF-_WE/edit?usp=sharing
 ##
 
-- **Resources:**
+- **Presentation:**
+    - https://docs.google.com/presentation/d/1hJu1IpRhxcFIrRHTQg8eLtWdwxg3pfIRpGqj-mm8ayU/edit?usp=sharing
+  ##
+
+- - **Resources:**
    - https://youtu.be/4s_3oNwqImo?si=omHoVgbVmK73TJVi
    - https://youtu.be/bGDMeD6kOz0?feature=shared
    - https://youtu.be/uo_Xf_pGTvg?feature=shared
