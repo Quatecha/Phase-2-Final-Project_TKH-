@@ -36,10 +36,9 @@
     - https://docs.google.com/presentation/d/1hJu1IpRhxcFIrRHTQg8eLtWdwxg3pfIRpGqj-mm8ayU/edit?usp=sharing
   ##
 
--**Final Paper**
+- **Final Paper**
 
-    -https://1drv.ms/w/s!ArrXxP7mFzWXjn6V8wK0WUPe1hjd?e=ohAu67
-
+  - [ -https://1drv.ms/w/s!ArrXxP7mFzWXjn6V8wK0WUPe1hjd?e=ohAu67 ](https://1drv.ms/w/s!ArrXxP7mFzWXjn6V8wK0WUPe1hjd?e=ohAu67)
  ##
 - - **Resources:**
    - https://youtu.be/4s_3oNwqImo?si=omHoVgbVmK73TJVi
