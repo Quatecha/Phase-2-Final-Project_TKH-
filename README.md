@@ -43,7 +43,7 @@
  ##
  - **Detail Paper**
 
-   - https://docs.google.com/document/d/13sIidHHO997VYtuUIkW6jyv7qrFU4bDyQ34OFRcVJSc/edit
+  - https://docs.google.com/document/d/13sIidHHO997VYtuUIkW6jyv7qrFU4bDyQ34OFRcVJSc/edit
    -  https://docs.google.com/document/d/1EA_dVf7KVaGYp0jS5BvDBONYGzRPB0P7iALVcPyaqY0/edit
 ##
 - - **Resources:**
