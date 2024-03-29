@@ -30,6 +30,10 @@ Building a virtual cyber home lab on the **AWS platform** our objective is to cr
 
 - **Project Visual workflow :**
    ![Screenshot 2024-03-25 005908](https://github.com/Quatecha/Phase-2-Final-Project_TKH-/assets/151267325/3b423c17-46ea-41ac-bee3-f5f5534003dc)
+**Click here to have a visual workflow by stages**
+  
+- https://1drv.ms/w/s!ALrXxP7mFzWXjwg?e=IsZIoG
+
 
 ##
 - **Project Notes:**
