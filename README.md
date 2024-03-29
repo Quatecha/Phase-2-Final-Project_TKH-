@@ -56,8 +56,8 @@ Building a virtual cyber home lab on the **AWS platform** our objective is to cr
  ##
  - **Detail Paper**
 
-  - https://docs.google.com/document/d/13sIidHHO997VYtuUIkW6jyv7qrFU4bDyQ34OFRcVJSc/edit
    -  https://docs.google.com/document/d/1EA_dVf7KVaGYp0jS5BvDBONYGzRPB0P7iALVcPyaqY0/edit
+   -  https://docs.google.com/document/d/13sIidHHO997VYtuUIkW6jyv7qrFU4bDyQ34OFRcVJSc/edit
 ##
 - - **Resources:**
    - https://youtu.be/4s_3oNwqImo?si=omHoVgbVmK73TJVi
