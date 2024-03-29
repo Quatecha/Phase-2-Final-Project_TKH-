@@ -3,7 +3,8 @@
 
 Building a virtual cyber home lab on the **AWS platform** our objective is to create a simulation platform meticulously designed to reflect real-world IT systems and networks. This virtual environment serves as an invaluable tool for testing and refining cybersecurity skills within a secure and isolated domain. It enables us to rigorously test and develop our cybersecurity competencies in a protected, segregated setting. By leveraging a Virtual Cyber Home Lab, we can engage in various scenarios, including defense against cyberattacks, execution of penetration testing, or undertaking digital forensics.
 
-  ![Screenshot 2024-03-29 002935](https://github.com/Quatecha/Phase-2-Final-Project_TKH-/assets/151267325/57b0db75-7fd8-4f9e-a0b2-08984e29cfbc)
+ ![Screenshot 2024-03-29 011858](https://github.com/Quatecha/Phase-2-Final-Project_TKH-/assets/151267325/3ce540c7-083e-4349-8bc1-4b9ce6ba25a4)
+
 
 
 ##
