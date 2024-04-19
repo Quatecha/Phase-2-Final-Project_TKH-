@@ -14,7 +14,6 @@ Building a virtual cyber home lab on the **AWS platform** our objective is to cr
 ##
 - **Team Members Role:**
    ##
-  
      • Quatecha C: **Team Leader**
 
      • Jose R: **Technical Documentation**
