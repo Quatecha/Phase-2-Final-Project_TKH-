@@ -9,7 +9,8 @@ Building a virtual cyber home lab on the **AWS platform** our objective is to cr
 
 ##
 - **Project:**
-     - https://docs.google.com/document/d/1heqnOVddglXxGlCDubKmWy1Hrkgr8vWapxSngiFrm28/edit#heading=h.iwt9uejoe50j
+  
+  [Requirements](https://docs.google.com/document/d/1heqnOVddglXxGlCDubKmWy1Hrkgr8vWapxSngiFrm28/edit#heading=h.iwt9uejoe50j)
 ##
 - **Team Members Role:**
    ##
@@ -31,21 +32,17 @@ Building a virtual cyber home lab on the **AWS platform** our objective is to cr
 
 - **Project Visual workflow :**
    ![Screenshot 2024-03-25 005908](https://github.com/Quatecha/Phase-2-Final-Project_TKH-/assets/151267325/3b423c17-46ea-41ac-bee3-f5f5534003dc)
-**Click here to have a visual workflow by stages**
+**[Click here](https://1drv.ms/w/s!ALrXxP7mFzWXjwg?e=IsZIoG) to have a visual workflow by stages**
   
-- https://1drv.ms/w/s!ALrXxP7mFzWXjwg?e=IsZIoG
 
 
 ##
-- **Project Notes:**
-     - https://1drv.ms/w/s!ArrXxP7mFzWXjmzPPn-VSxdU43di?e=JYUBsc
-  ##
+- **[Project Notes](https://1drv.ms/w/s!ArrXxP7mFzWXjmzPPn-VSxdU43di?e=JYUBsc)**
   
-- **Lab Report-Layout:**
-     - https://docs.google.com/document/d/13MJtSPFCy_h2RG4m-nulJuCKO9qzSU3AWsC5mxF-_WE/edit?usp=sharing
+- **[Lab Report-Layout](https://docs.google.com/document/d/13MJtSPFCy_h2RG4m-nulJuCKO9qzSU3AWsC5mxF-_WE/edit?usp=sharing)**
 ##
 
-- **Presentation:**
+- **[Presentation]**
     - https://docs.google.com/presentation/d/1hJu1IpRhxcFIrRHTQg8eLtWdwxg3pfIRpGqj-mm8ayU/edit?usp=sharing
     - https://docs.google.com/presentation/d/1tf_wxw4TL_7j4R_qoHTwvqy17t22BdTtfls81D6gIlQ/edit?usp=sharing
   ##
